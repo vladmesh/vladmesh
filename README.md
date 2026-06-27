@@ -6,7 +6,7 @@ Mostly Python (FastAPI, LangGraph, SQLAlchemy), Postgres, Docker; some TypeScrip
 
 ### What I build
 
-- **[Assistants](https://github.com/vladmesh/Assistants)** — multi-agent personal assistant: LangGraph, RAG over pgvector, 7 microservices, full CI/CD.
+- **[ready-for-traffic](https://github.com/vladmesh/ready-for-traffic)** — launch-readiness checklist for founders shipping a product, vibe-coded apps included: 8 areas from the server to the monthly bill. CC0.
 - **[codegen_orchestrator](https://github.com/vladmesh/codegen_orchestrator)** — multi-agent orchestrator: a Telegram brief becomes a deployed project (code, CI/CD, domain, SSL).
 - **[service-template](https://github.com/vladmesh/service-template)** — spec-first Copier framework for AI-agent-ready microservices.
 - **[personal_site](https://github.com/vladmesh/personal_site)** — self-hostable personal-site template (Astro + FastAPI/Postgres). Powers [vladmesh.dev](https://vladmesh.dev).
