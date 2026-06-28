@@ -4,6 +4,8 @@ Engineer, 7 years building production systems: backends, pipelines, automation, 
 
 Mostly Python (FastAPI, LangGraph, SQLAlchemy), Postgres, Docker; some TypeScript/Astro.
 
+**Available for consulting and audits.** I run a fixed-price Technical & Security Health Check for products and MVPs: security, scaling, code quality. [See the offer →](https://vladmesh.dev/en/#offer)
+
 ### What I build
 
 - **[ready-for-traffic](https://github.com/vladmesh/ready-for-traffic)** — launch-readiness checklist for founders shipping a product, vibe-coded apps included: 8 areas from the server to the monthly bill. CC0.
