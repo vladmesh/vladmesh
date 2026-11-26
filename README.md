@@ -16,6 +16,8 @@ Part-time, fixed price, remote from Cyprus (EU time zone).
 
 Details: [vladmesh.dev/en/llm-systems](https://vladmesh.dev/en/llm-systems/) · [vladmesh.dev@gmail.com](mailto:vladmesh.dev@gmail.com) · [Telegram](https://t.me/vladislav_meshk)
 
+Eval work in public: two merged PRs in [Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai/pulls?q=is%3Apr+author%3Avladmesh+is%3Amerged), [Hands-On Tutorials for Inspect AI](https://www.lesswrong.com/posts/EvGLAuEtHpicKGBJh/hands-on-tutorials-for-inspect-ai-1) (LessWrong, co-author), [ru-it-stt-eval](https://github.com/vladmesh/ru-it-stt-eval). Agent tooling: [pasekahq](https://github.com/pasekahq).
+
 Also available: fixed-price Technical & Security Health Check for products and MVPs (security, scaling, code quality). [See the offer](https://vladmesh.dev/en/#offer)
 
 ### What I build
