@@ -4,9 +4,19 @@ Engineer, 7 years building production systems: backends, pipelines, automation, 
 
 Mostly Python (FastAPI, LangGraph, SQLAlchemy), Postgres, Docker; some TypeScript/Astro.
 
-### Available for consulting & audits
+### Hire me
 
-Fixed-price Technical & Security Health Check for products and MVPs: security, scaling, code quality. [See the offer →](https://vladmesh.dev/en/#offer)
+I build LLM systems end to end: chatbots and agents, orchestration, evals.
+Part-time, fixed price, remote from Cyprus (EU time zone).
+
+- LLM product audit: one week, baseline eval on your real cases, ranked fixes. €1,500.
+- Eval harness: golden set, graders, CI regression gate. You keep the harness. €3,500.
+- Agent system or orchestrator, built in milestones. From €5,000 per milestone.
+- Telegram or web chatbot with an LLM, with a test set from day one. From €1,800.
+
+Details: [vladmesh.dev/en/llm-systems](https://vladmesh.dev/en/llm-systems/) · [vladmesh.dev@gmail.com](mailto:vladmesh.dev@gmail.com) · [Telegram](https://t.me/vladislav_meshk)
+
+Also available: fixed-price Technical & Security Health Check for products and MVPs (security, scaling, code quality). [See the offer](https://vladmesh.dev/en/#offer)
 
 ### What I build
 
