@@ -1,4 +1,4 @@
-## Vladislav Meshkorudnyj
+## Vladislav Meshkorudnyi
 
 Engineer, 7 years building production systems: backends, pipelines, automation, end to end. Background in fintech and high-load (ex-Yandex, EPAM). For the last couple of years, deep in AI: RAG, agentic pipelines, model evals.
 
